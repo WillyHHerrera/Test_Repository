@@ -1,0 +1,4 @@
+﻿  source.cpp
+C:\Users\Diego\2021-2\Algoritmos y Estructuras de Datos\TrabajoFinal-2021-2\TrabajoFinal_G09\TrabajoFinal_G09\controlador.hpp(34,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Diego\2021-2\Algoritmos y Estructuras de Datos\TrabajoFinal-2021-2\TrabajoFinal_G09\TrabajoFinal_G09\controlador.hpp(39,21): warning C4018: '<': signed/unsigned mismatch
+  TrabajoFinal_G09.vcxproj -> C:\Users\Diego\2021-2\Algoritmos y Estructuras de Datos\TrabajoFinal-2021-2\TrabajoFinal_G09\Debug\TrabajoFinal_G09.exe
